@@ -1,0 +1,11 @@
+// inside .eslintrc
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "no-console": "off" // to disable warnings when logging to console
+  }
+}
+
+  
+  
